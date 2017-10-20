@@ -1,4 +1,6 @@
-![pomfe.co](https://a.pomfe.co/emlusbu.png)
+# This is a clone of [Pomfe.co](https://github.com/Pomfe/pomfe.co).
+
+![https://bakka.me/](https://a.bakka.me/okrtaxp.png)
 
 # Requirements
 * A web server (Nginx or Apache)
