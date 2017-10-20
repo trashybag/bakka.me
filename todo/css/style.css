@@ -1,0 +1,82 @@
+body {
+   font-family: 'Montserrat', sans-serif;
+   color:#878787;
+   background:#121212;
+}
+
+.well {
+   background:#212121;
+   border:0px !important;
+   border-radius:2px;
+   width:100%;
+}
+
+.line {
+   border-bottom:0px !important;
+   border-top:1px solid #878787;
+   width:100%;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-thumb {
+    background: #814BA3;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+::-webkit-scrollbar-track {
+    background: #2c2c2c;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+::selection {
+   background:#000;
+}
+
+.tooltip {
+   background:#212121;
+   color:#fff;
+}
+
+.container {
+   padding:20px;
+   margin-bottom:80px;
+}
+
+.panel {
+   border-radius:0px;
+   background:#1F1F1F;
+   border:0px;
+}
+
+.butn {
+   color:#fff;
+   background:#814BA3;
+   border:0px;
+   border-radius:2px;
+   padding:10px;
+}
+
+.butn:active {
+   border:0px;
+}
+
+.navbar {
+   background:#1F1F1F !important;
+   border:0px;
+   border-radius:0px;
+   border-bottom:1px solid #814BA3;
+}
+
+a {   
+   color:#878787 !important;
+   transition:.2s;
+}
+
+a:hover {
+   color:#814BA3 !important;
+   text-decoration:none;
+   transition:.2s;
+}
+
+
