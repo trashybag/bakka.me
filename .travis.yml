@@ -1,0 +1,17 @@
+language: php
+
+php:
+  - '7.0'
+  - '7.1'
+  - 'nightly'
+
+before_script:
+  - composer install 
+  - composer self-update
+  - pear install pear/PHP_CodeSniffer
+  - phpenv rehash
+
+  
+
+script:
+  - vendor/bin/phpunit --coverage-text

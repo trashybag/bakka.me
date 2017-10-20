@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Upload and share files anonymously for free."/>
+  <meta property=og:type content=website />
+  <meta property="og:url" content="https://Bakka.me"/>
+  <meta property="og:title" content="Bakka.me - File Hosting"/>
+  <meta property="og:site_name" content="Bakka.me"/>
+  <meta property="og:locale" content="en-US"/>
+  <title>&middot; BAKKA.ME&middot;</title>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="jumbotron">
+      <h1>Ohay&#x14D;!</h1>
+      <p class="lead">100MiBs the Limit</p>
+      <p id="no-file-api" class="alert alert-error"><strong>This site requires some cool Web 2.0 stuff</strong> Install the latest<a href="http://firefox.com/">Firefox</a> or <a href="http://chrome.google.com/">Botnet</a> and come back &lt;3</p>
+      <form enctype="multipart/form-data" method="post" action="upload.php?output=html">
+        <input type="file" name="files[]" multiple data-max-size="100MiB">
+        <input type="submit" value="Submit">
+      </form>
+      <ul id="upload-filelist"></ul>
+      <nav>
+    <ul>
+        <li><a href="https://bakka.me/faq/"><i class="fa fa-question"></i></a></li>
+        <li><a href="https://bakka.me/tools/"><i class="fa fa-wrench"></i></a></li>
+        <li><a href="http://steamcommunity.com/groups/bakkame" target="_blank"><i class="fa fa-steam"></i></a>
+        <li><a href="https://github.com/VottonDev/pomfe.co" target="_blank"><i class="fa fa-github"></i></a></li>
+        <li><a href="https://twitter.com/bakka_me" target="_blank"><i class="fa fa-twitter"></i></a>
+    </ul>
+</nav>
+    </div>
+  </div>
+</body>
+
+</html>
