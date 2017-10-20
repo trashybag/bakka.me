@@ -19,6 +19,7 @@
 # Credits
 * Pomf done by [Nekunekus](https://github.com/nokonoko/Pomf)
 * Modifications done by Bohrmeista & Votton.
+* Design modified by cumslut.
 
 # Tips
 * Remember to block the execution of PHP code on your web server.
