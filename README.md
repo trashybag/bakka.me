@@ -1,5 +1,5 @@
 # This is a clone of [Pomfe.co](https://github.com/Pomfe/pomfe.co).
-# Preview bakka.me [bakka.me](https://bakka.me/).
+# Preview [bakka.me](https://bakka.me/).
 
 ![https://bakka.me/](https://a.bakka.me/okrtaxp.png)
 
