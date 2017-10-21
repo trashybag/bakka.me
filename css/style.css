@@ -9,12 +9,12 @@ body,button {
 }
 
 .background-img{
-    background:url('../img/1.png');
+    background:url('../img/5900f38405b8c.png');
     width: 377px;
-    height: 300px;
+    height: 400px;
     background-repeat: no-repeat,repeat;
     position: absolute;
-    right: 12%;
+    right: 0%;
     bottom: 0%;
 }
 
