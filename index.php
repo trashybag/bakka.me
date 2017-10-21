@@ -35,6 +35,7 @@
         <div class="footer">
             <?php include('global/footer.html'); ?>
         </div>
+        <div class="background-img"></div>
 <!-- <script>
 function uploadCompleted() {
 swal({
